@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  oocp
+//  first C++ program for GitHub
 //
 //  Created by Vatsal Salla on 9/16/18.
 //  Copyright © 2018. All rights reserved.
