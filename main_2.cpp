@@ -3,7 +3,7 @@
 //  Counting Sort: How can we sort sequence (1, 7, 7, 7, 9, 2, 3, 10, 9, 4) in ascending order.
 //  Using Array. Assuming 10 (1 to 10) terms in input which can be calibrated later
 //
-//  Created by Vatsal Salla on 9/17/18.
+//  Created by Vatsal Salla on 9/20/18.
 //  Copyright © 2018. All rights reserved.
 
 #include <iostream>
