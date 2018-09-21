@@ -1,5 +1,5 @@
 //
-//  main.cpp
+//  firstCode.cpp
 //  first C++ program for GitHub
 //
 //  Created by Vatsal Salla on 9/16/18.
