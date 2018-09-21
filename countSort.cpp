@@ -1,5 +1,5 @@
 //
-//  main.cpp
+//  countSort.cpp
 //  Counting Sort: How can we sort sequence (1, 7, 7, 7, 9, 2, 3, 10, 9, 4) in ascending order.
 //  Using Array. Assuming 10 (1 to 10) terms in input which can be calibrated later
 //
